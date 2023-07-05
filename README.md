@@ -31,4 +31,7 @@
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhemel&" alt="smhemel" /> -->
   <img src="https://leetcard.jacoblin.cool/smhemel?theme=nord&font=Fira%20Code&ext=contest" alt="smhemel" />
 </p>
+<p>
+    <a href="https://app.daily.dev/sm_hemel"><img src="https://api.daily.dev/devcards/01bcd02a00b948278763375e9de2f3e9.png?r=dr7" width="400" alt="S M HEMEL's Dev Card"/</a>
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=smhemel&label=Profile%20views&color=0e75b6&style=flat" alt="smhemel" /> </p>
