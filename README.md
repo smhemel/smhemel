@@ -30,6 +30,7 @@
 <p>
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhemel&" alt="smhemel" /> -->
   <img src="https://leetcard.jacoblin.cool/smhemel?theme=nord&font=Fira%20Code&ext=contest" alt="smhemel" />
+  <a href="https://data.typeracer.com/pit/profile?user=sm_hemel&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sm_hemel" border="0" alt="TypeRacer.com scorecard for user sm_hemel"/></a>
 </p>
 <p>
     <a href="https://app.daily.dev/sm_hemel"><img src="https://api.daily.dev/devcards/01bcd02a00b948278763375e9de2f3e9.png?r=dr7" width="400" alt="S M HEMEL's Dev Card"/</a>
