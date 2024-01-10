@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **back-end technologies**
 
 - 📫 How to reach me **smhemel.eu@gmail.com**
+  
+- 🙎🏻‍♂️ My Resume - [View](https://www.canva.com/design/DAF4D8dL6QY/rijBTUMeQUS8zIyd_coWlg/view?utm_content=DAF4D8dL6QY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,7 +34,7 @@
   <img src="https://leetcard.jacoblin.cool/smhemel?theme=nord&font=Fira%20Code&ext=contest" alt="smhemel" />
   <a href="https://data.typeracer.com/pit/profile?user=sm_hemel&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sm_hemel" border="0" alt="TypeRacer.com scorecard for user sm_hemel"/></a>
 </p>
-<p>
+<!-- <p>
     <a href="https://app.daily.dev/sm_hemel"><img src="https://api.daily.dev/devcards/01bcd02a00b948278763375e9de2f3e9.png?r=dr7" width="400" alt="S M HEMEL's Dev Card"/</a>
-</p>
+</p> -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=smhemel&label=Profile%20views&color=0e75b6&style=flat" alt="smhemel" /> </p>
