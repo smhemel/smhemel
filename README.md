@@ -15,6 +15,98 @@
 </h4>
 
 <hr>
+
+<h2 align="center" id="smhemel-tech">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+
+> Tools and technologies that I have worked with.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./images/html.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./images/css.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./images/c.svg" width="48" height="48" alt="c" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="c++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="js" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./images/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="./images/angular.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./images/ionic.svg" width="48" height="48" alt="Ionic" />
+      </a>
+      <br>Ionic
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<br/>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 - 🔭 I’m currently working on **Enosis Solutions**
