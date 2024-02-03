@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">A passionate self-taught Full Stack developer from Bangladesh.</h3>
+<h4 align="center">Passionate Front-end focused full-stack developer with expertise in front-end technologies like HTML, CSS, Tailwind, JavaScript, TypeScript, and Angular and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Enosis Solutions**
