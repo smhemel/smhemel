@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=smhemel&label=visitors&color=0e75b6&style=flat">
 
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/sm-hemel"><img width="80%" alt="Hello, I'm Hemel" src="./assets/header-2.png" /></a>
+  <a href="https://www.linkedin.com/in/sm-hemel"><img width="65%" alt="Hello, I'm Hemel" src="./assets/header-2.png" /></a>
 </h1>
 
 <h3 align="center">Passionate front-end focused full-stack developer with expertise in front-end technologies like HTML, CSS, Tailwind, TypeScript, and Angular and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
