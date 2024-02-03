@@ -36,19 +36,25 @@
     </td>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SASS" />
+      </a>
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="./images/c.svg" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="" width="48" height="48" alt="c++" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="c++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="" width="48" height="48" alt="js" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" />
       </a>
       <br>JavaScript
     </td>
@@ -60,10 +66,18 @@
     </td>
     <td align="center" width="96"> 
       <a href="#" >
+        <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+      </a>
+      <br>Swift
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
         <img src="./images/angular.svg" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
+  </tr>
+  <tr>
     <td align="center"  width="96">
       <a href="#">
         <img src="./images/ionic.svg" width="48" height="48" alt="Ionic" />
@@ -71,36 +85,52 @@
       <br>Ionic
     </td>
     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <a href="#">
-        <img src="" width="48" height="48" alt="Bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="" width="48" height="48" alt="Tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Docker
+      <br>Material UI
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./images/ant-design.svg" width="48" height="48" alt="Ant Design" />
       </a>
-      <br>
+      <br>Ant Design
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="./images/jira.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
     </td>
   </tr>
 </table>
