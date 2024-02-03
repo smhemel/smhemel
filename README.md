@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm HEMEL</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Hemel" src="./assets/header-2.png" /></a></p>
+
 <h3 align="center">A passionate self-taught Full Stack developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
