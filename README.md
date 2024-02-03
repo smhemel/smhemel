@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sm-hemel/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/SM_HEMEL" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://leetcode.com/smhemel/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
+  <code><a href="https://www.hackerrank.com/SM_HEMEL" title="HackerRank Profile"><img width="22" src="images/hackerrank.svg"> HackerRank</a></code>
+  <code><a href="https://leetcode.com/smhemel/" title="LeetCode Profile"><img style="background-color: transparent;" width="22" src="images/leetcode.svg"> LeetCode</a></code>
   <code><a href="https://www.facebook.com/smhemel.me/" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
 </h5>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
