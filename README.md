@@ -24,13 +24,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/html.svg" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/css.svg" width="48" height="48" alt="CSS" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/c.svg" width="48" height="48" alt="c" />
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
@@ -54,13 +54,13 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="js" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./images/typescript.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -72,7 +72,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="./images/angular.svg" width="48" height="48" alt="Angular" />
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
@@ -96,13 +96,13 @@
       </a>
       <br>Tailwind
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="105"> 
       <a href="#" >
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material-UI" />
       </a>
       <br>Material UI
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="105"> 
       <a href="#" >
         <img src="./images/ant-design.svg" width="48" height="48" alt="Ant Design" />
       </a>
@@ -131,6 +131,67 @@
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
+    </td>
+  </tr>
+</table>
+
+> Tools and technologies that I am learning and want to learn.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+      </a>
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="105">
+      <a href="#">
+        <img src="./images/puppeteer.svg" width="48" height="48" alt="Puppeteer" />
+      </a>
+      <br>Puppeteer
+    </td>
+    <td align="center" width="105">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./images/websocket.svg" width="48" height="48" alt="Web Socket" />
+      </a>
+      <br>Web Socket
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./images/Gin.svg" width="48" height="48" alt="Gin" />
+      </a>
+      <br>Gin
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
     </td>
   </tr>
 </table>
