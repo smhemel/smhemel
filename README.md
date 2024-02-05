@@ -213,9 +213,12 @@
   </tr>
 </table>
 
-<br/>
-  
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+<hr>
+
+<p><img align="left" height="150px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhemel&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="smhemel" /></p>
+<p><img align="right" height="150px" width="50%" src="https://github-readme-stats.vercel.app/api?username=smhemel&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true" /></p>
+
+  <!-- Fun fact: Equal is Not Always Equal in JS. -->
 
 <p>
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhemel&" alt="smhemel" /> -->
