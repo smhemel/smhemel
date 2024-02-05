@@ -26,10 +26,10 @@
 - 📫 &nbsp; Reach me out: **smhemel.eu@gmail.com**
 - 📝 &nbsp; Checkout my [Resume](https://www.canva.com/design/DAF4D8dL6QY/rijBTUMeQUS8zIyd_coWlg/view?utm_content=DAF4D8dL6QY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-### My Absolute Favorites:
+### ☺️ My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 Love to play cricket and Badminton.
+- 🎮 &nbsp; Love to play cricket and Badminton.
 
 <hr>
 
