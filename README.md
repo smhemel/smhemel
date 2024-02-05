@@ -17,10 +17,15 @@
 <hr>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://enosisbd.com/">Enosis Solutions
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
-<img height="250" />
+
+### 🧐 More About Me:
+- 🔭 &nbsp; <em>Senior Software Engineer at <a href="https://enosisbd.com/">Enosis Solutions
+</a></em>
+- 🌱 &nbsp; I’m currently learning **back-end technologies**
+- 💬 &nbsp; Ask me anything here! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: **smhemel.eu@gmail.com**
+- 📝 &nbsp; Checkout my [Resume](https://www.canva.com/design/DAF4D8dL6QY/rijBTUMeQUS8zIyd_coWlg/view?utm_content=DAF4D8dL6QY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <hr>
 
