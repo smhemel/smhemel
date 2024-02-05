@@ -16,6 +16,14 @@
 
 <hr>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Senior Software Engineer at <a href="https://enosisbd.com/">Enosis Solutions
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+<img height="250" />
+
+<hr>
+
 <h2 align="center" id="smhemel-tech">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 > Tools and technologies that I have worked with.
