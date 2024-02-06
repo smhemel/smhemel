@@ -215,17 +215,20 @@
 
 <hr>
 
-<p><img align="left" height="150px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhemel&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="smhemel" /></p>
-<p><img align="right" height="150px" width="50%" src="https://github-readme-stats.vercel.app/api?username=smhemel&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true" /></p>
+<p><img align="left" width="279" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhemel&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="smhemel" /></p>
+<p><img align="right" height="146" src="https://github-readme-stats.vercel.app/api?username=smhemel&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true" /></p>
 
   <!-- Fun fact: Equal is Not Always Equal in JS. -->
 
-<p>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhemel&" alt="smhemel" /> -->
+<!--   <p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhemel&" alt="smhemel" />
   <img src="https://leetcard.jacoblin.cool/smhemel?theme=nord&font=Fira%20Code&ext=contest" alt="smhemel" />
   <a href="https://data.typeracer.com/pit/profile?user=sm_hemel&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sm_hemel" border="0" alt="TypeRacer.com scorecard for user sm_hemel"/></a>
 </p>
-<!-- <p>
+<p>
     <a href="https://app.daily.dev/sm_hemel"><img src="https://api.daily.dev/devcards/01bcd02a00b948278763375e9de2f3e9.png?r=dr7" width="400" alt="S M HEMEL's Dev Card"/</a>
-</p> -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=smhemel&label=Profile%20views&color=0e75b6&style=flat" alt="smhemel" /> </p>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=smhemel&label=Profile%20views&color=0e75b6&style=flat" alt="smhemel" /> </p> -->
+
+
+
