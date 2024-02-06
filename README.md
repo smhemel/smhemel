@@ -215,8 +215,8 @@
 
 <hr>
 
-<p><img align="left" width="279" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhemel&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="smhemel" /></p>
-<p><img align="right" height="146" src="https://github-readme-stats.vercel.app/api?username=smhemel&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smhemel&show_icons=true&locale=en&layout=compact&theme=calm_pink&card_width=400" alt="smhemel" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=smhemel&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true&card_width=400&hide=prs&line_height=24" /></p>
 
   <!-- Fun fact: Equal is Not Always Equal in JS. -->
 
