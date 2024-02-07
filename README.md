@@ -235,10 +235,9 @@
 </table>
 
 <br>
-<br>
-<div align="right">
-<img src="./custom/cards.svg" width="400" height="400" alt="Hello"/>
-</div>
+<h4 align="right">
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality" target="_blank">Equal is Not Always Equal in JS.</a></code>
+</h4>
 
 
 
