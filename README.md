@@ -215,20 +215,18 @@
 
 <hr>
 
-<table align="center">
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhemel&show_icons=true&locale=en&layout=compact&theme=calm_pink&card_width=435" alt="smhemel" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=smhemel&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true&card_width=350&hide=prs&line_height=24" /></td>
-  </tr>
-</table>
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhemel&show_icons=true&locale=en&layout=compact&theme=calm_pink&card_width=435" alt="smhemel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smhemel&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true&card_width=350&hide=prs&line_height=24" />
+</p> -->
+<p align="center">
+  <img align="left" src="https://leetcard.jacoblin.cool/smhemel?theme=nord&font=Fira%20Code&ext=contest" alt="smhemel" />
+  <a align="right" href="https://app.daily.dev/sm_hemel"><img src="https://api.daily.dev/devcards/01bcd02a00b948278763375e9de2f3e9.png?r=dr7" width="300" alt="S M HEMEL's Dev Card"/</a>
+</p>
 
-<table align="center">
-  <tr>
-    <td valign="top"><img src="https://leetcard.jacoblin.cool/smhemel?theme=nord&font=Fira%20Code&ext=contest" alt="smhemel" /></td>
-    <td valign="bottom"><a href="https://data.typeracer.com/pit/profile?user=sm_hemel&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sm_hemel" border="0" alt="TypeRacer.com scorecard for user sm_hemel"/></a></td>
-  </tr>
-</table>
-
+<p align="right">
+  <a href="https://data.typeracer.com/pit/profile?user=sm_hemel&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sm_hemel" border="0" alt="TypeRacer.com scorecard for user sm_hemel"/></a>
+</p>
 
   <!-- Fun fact: Equal is Not Always Equal in JS. -->
 
