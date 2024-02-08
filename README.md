@@ -229,12 +229,11 @@
       <a href="https://data.typeracer.com/pit/profile?user=sm_hemel&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sm_hemel" border="0" alt="TypeRacer.com scorecard for user sm_hemel"/></a>
     </td>
     <td>
-      <a align="right" href="https://app.daily.dev/sm_hemel"><img src="https://api.daily.dev/devcards/01bcd02a00b948278763375e9de2f3e9.png?r=dr7" width="300" alt="S M HEMEL's Dev Card"/</a>
+      <a href="https://app.daily.dev/sm_hemel"><img src="https://api.daily.dev/devcards/01bcd02a00b948278763375e9de2f3e9.png?r=kzj" width="400" alt="S M HEMEL's Dev Card"/></a>
     </td>
   </tr>
 </table>
 
-<br>
 <h4 align="right">
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality" target="_blank">Equal is Not Always Equal in JS.</a></code>
 </h4>
