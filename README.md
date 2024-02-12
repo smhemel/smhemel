@@ -219,6 +219,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhemel&show_icons=true&locale=en&layout=compact&theme=calm_pink&card_width=435" alt="smhemel" />
   <img src="https://github-readme-stats.vercel.app/api?username=smhemel&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true&card_width=350&hide=prs&line_height=24" />
 </p> -->
+<h2 align="center" id="smhemel-tech">🔥 Activities 🔥</h2>
 
 <table>
   <tr>
