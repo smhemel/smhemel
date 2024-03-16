@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=smhemel&label=visitors&color=0e75b6&style=flat">
+<img align="right" src="https://visitcount.itsvg.in/api?id=smhemel&label=Profile%20Views&color=6&icon=0&pretty=true" />
 
 <h1 align="center">
   <a href="https://www.linkedin.com/in/sm-hemel"><img width="65%" alt="Hello, I'm Hemel" src="./assets/header-2.png" /></a>
