@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sm-hemel"><img width="65%" alt="Hello, I'm Hemel" src="./assets/header-2.png" /></a>
 </h1>
 
-<h3 align="center">Passionate front-end focused full-stack developer with expertise in front-end technologies like HTML, CSS, Tailwind, TypeScript, and Angular and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">Passionate front-end focused full-stack developer with expertise in front-end technologies like HTML, CSS, Tailwind, TypeScript, Angular, and Ionic and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 
 <h4 align="center">
   <code><a href="https://www.linkedin.com/in/sm-hemel/" title="LinkedIn Profile"><img style="background-color: transparent !important;" width="22" src="images/linkedin.svg"> LinkedIn</a></code>
