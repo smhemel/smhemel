@@ -11,7 +11,7 @@
   <code><a href="https://leetcode.com/smhemel/" title="LeetCode Profile"><img style="background-color: transparent !important;" width="22" src="images/leetcode.svg"> LeetCode</a></code>
   <code><a href="https://www.hackerrank.com/SM_HEMEL" title="HackerRank Profile"><img style="background-color: transparent !important;" width="22" src="images/hackerrank.svg"> HackerRank</a></code>
   <code><a href="https://codeforces.com/profile/sm_hemel" title="Codeforces Profile"><img style="background-color: transparent !important;" width="22" src="images/codeforces.svg"> Codeforces</a></code>
-  <code><a href="https://www.facebook.com/smhemel.me/" title="Facebook Profile"><img style="background-color: transparent !important;" width="22" src="images/medium.svg"> Medium</a></code>
+  <code><a href="https://medium.com/@sm_hemel" title="Medium Profile"><img style="background-color: transparent !important;" width="22" src="images/medium.svg"> Medium</a></code>
 </h4>
 
 <hr>
