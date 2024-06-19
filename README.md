@@ -24,6 +24,7 @@
 - 🌱 &nbsp; I’m currently learning **back-end technologies**
 - 💬 &nbsp; Ask me anything [here](https://github.com/smhemel/smhemel/issues/1)! I am happy to help.
 - 📫 &nbsp; Reach me out: **smhemel.eu@gmail.com**
+- ✍️ &nbsp; My articles: [Medium](https://medium.com/@sm_hemel)
 - 📝 &nbsp; Checkout my [Resume](https://www.canva.com/design/DAF4D8dL6QY/rijBTUMeQUS8zIyd_coWlg/view?utm_content=DAF4D8dL6QY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### ☺️ My Absolute Favorites:
