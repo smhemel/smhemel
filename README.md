@@ -25,7 +25,7 @@
 - 💬 &nbsp; Ask me anything [here](https://github.com/smhemel/smhemel/issues/1)! I am happy to help.
 - 📫 &nbsp; Reach me out: **smhemel.eu@gmail.com**
 - ✍️ &nbsp; My articles: [Medium](https://medium.com/@sm_hemel)
-- 📝 &nbsp; Checkout my [Resume](https://www.canva.com/design/DAF4D8dL6QY/rijBTUMeQUS8zIyd_coWlg/view?utm_content=DAF4D8dL6QY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📝 &nbsp; Checkout my [Resume](https://www.canva.com/design/DAF2O9QB9YA/5QuivuGJ4QHrJlv4gpBMyQ/view?utm_content=DAF2O9QB9YA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### ☺️ My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
