@@ -36,7 +36,7 @@
 
 <h2 align="center" id="smhemel-tech">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
-> Tools and technologies that I have worked with.
+> Tools and technologies that I have worked and working on
 
 <table align="center">
   <tr>
@@ -84,9 +84,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       </a>
-      <br>Swift
+      <br>React
     </td>
     <td align="center" width="96"> 
       <a href="#" >
@@ -128,9 +128,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Git
+      <br>Firebase
     </td>
     <td align="center" width="96"> 
       <a href="#" >
@@ -151,12 +151,19 @@
       <br>Postman
     </td>
   </tr>
-</table>
-
-> Tools and technologies that I am learning and want to learn.
-
-<table align="center">
   <tr>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./images/cursor.png" width="48" height="48" alt="Cursor" />
+      </a>
+      <br>Cursor
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
@@ -169,6 +176,43 @@
       </a>
       <br>Postgres
     </td>
+    <td align="center" width="105"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Git" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      </a>
+      <br>Supabase
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Nextjs" />
+      </a>
+      <br>Nextjs
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+  </tr>
+</table>
+
+> Tools and technologies that I am learning and want to learn
+
+<table align="center">
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
