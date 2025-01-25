@@ -1,4 +1,6 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=smhemel&label=Profile%20Views&color=6&icon=0&pretty=true" />
+<a align="right" href="https://github.com/smhemel/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=smhemel&style=for-the-badge&color=brightgreen">
+</a>
 
 <h1 align="center">
   <a href="https://www.linkedin.com/in/sm-hemel"><img width="65%" alt="Hello, I'm Hemel" src="./assets/header-2.png" /></a>
